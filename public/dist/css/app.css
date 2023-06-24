@@ -1,0 +1,17 @@
+textarea {
+  resize: none !important;
+}
+.login-bg-image {
+  width: 100% !important;
+}
+
+.login-form a {
+  text-decoration: none;
+}
+.signup-bg-image {
+  width: 100% !important;
+}
+
+.signup-form a {
+  text-decoration: none;
+}
